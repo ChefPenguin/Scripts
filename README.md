@@ -1,2 +1,2 @@
 # Scripts
-Stuff I've found useful for work
+Stuff I've found useful for remotely administering Windows stuff
